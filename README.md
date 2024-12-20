@@ -1,7 +1,7 @@
 ### Bienvenue sur mon profile 👋
 
-- 🌱 Je suis étudiant à l'Université Lyon 1 en BUT Informatique option Mobile et 3D
 - 🔭 Je travaille chez OKTEO
+- 🌱 Je suis diplomé de l'Université Lyon 1 - BUT Informatique option Mobile et 3D
 - 👯 Toujours à la recherche de collaborateur pour de nouveau projet
 - ✊ Ready to Flutter
 
